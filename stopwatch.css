@@ -1,0 +1,27 @@
+.buttons{
+    border: 2px solid;
+    border-radius: 25px;
+    border-color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 253, 253);
+    width: 80px;
+    height: 30px;
+    cursor: pointer;
+    font-family:'Courier New', Courier, monospace
+}
+
+#time{
+    font-size: 75px;
+    color: white;
+    font-family: consolas;
+
+}
+#div_container{
+    text-align: center;
+    border: 2px solid;
+    border-radius: 25px;
+    width: 400px;
+    background-color: rgb(75, 217, 75);
+    margin: auto;
+
+}
